@@ -19,6 +19,9 @@
       ],
       "@routes/*": [
         "src/routes/*"
+      ],
+      "@routes": [
+        "src/routes"
       ]
     },
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
