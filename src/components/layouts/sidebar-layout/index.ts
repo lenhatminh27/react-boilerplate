@@ -1,0 +1,1 @@
+export {default as SidebarLayout} from "@components/layouts/sidebar-layout/SidebarLayout.tsx"

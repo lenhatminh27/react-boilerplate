@@ -1,0 +1,1 @@
+export {default as MainLayout} from "@components/layouts/main-layout/MainLayout.tsx"
