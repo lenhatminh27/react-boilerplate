@@ -1,4 +1,4 @@
-import {type RootState} from '@/stores'
+import {type RootState} from '@/stores/store.ts'
 
 export const getAccessToken = (state: RootState) => state.auth.accessToken
 export const getUser = (state: RootState) => state.auth.user
